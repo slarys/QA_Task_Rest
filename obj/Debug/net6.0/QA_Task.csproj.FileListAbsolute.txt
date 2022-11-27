@@ -1,0 +1,15 @@
+C:\Users\kaimo\RiderProjects\QA_Task\QA_Task\bin\Debug\net6.0\QA_Task.exe
+C:\Users\kaimo\RiderProjects\QA_Task\QA_Task\bin\Debug\net6.0\QA_Task.deps.json
+C:\Users\kaimo\RiderProjects\QA_Task\QA_Task\bin\Debug\net6.0\QA_Task.runtimeconfig.json
+C:\Users\kaimo\RiderProjects\QA_Task\QA_Task\bin\Debug\net6.0\QA_Task.dll
+C:\Users\kaimo\RiderProjects\QA_Task\QA_Task\bin\Debug\net6.0\QA_Task.pdb
+C:\Users\kaimo\RiderProjects\QA_Task\QA_Task\obj\Debug\net6.0\QA_Task.csproj.AssemblyReference.cache
+C:\Users\kaimo\RiderProjects\QA_Task\QA_Task\obj\Debug\net6.0\QA_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaimo\RiderProjects\QA_Task\QA_Task\obj\Debug\net6.0\QA_Task.AssemblyInfoInputs.cache
+C:\Users\kaimo\RiderProjects\QA_Task\QA_Task\obj\Debug\net6.0\QA_Task.AssemblyInfo.cs
+C:\Users\kaimo\RiderProjects\QA_Task\QA_Task\obj\Debug\net6.0\QA_Task.csproj.CoreCompileInputs.cache
+C:\Users\kaimo\RiderProjects\QA_Task\QA_Task\obj\Debug\net6.0\QA_Task.dll
+C:\Users\kaimo\RiderProjects\QA_Task\QA_Task\obj\Debug\net6.0\refint\QA_Task.dll
+C:\Users\kaimo\RiderProjects\QA_Task\QA_Task\obj\Debug\net6.0\QA_Task.pdb
+C:\Users\kaimo\RiderProjects\QA_Task\QA_Task\obj\Debug\net6.0\QA_Task.genruntimeconfig.cache
+C:\Users\kaimo\RiderProjects\QA_Task\QA_Task\obj\Debug\net6.0\ref\QA_Task.dll
