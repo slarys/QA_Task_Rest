@@ -2,6 +2,10 @@
 
 public class Product : IComparable
 {
+    public Product()
+    {
+    }
+
     public Product(string name, double price, ProductType type, uint weight)
     {
         Name = name;
@@ -11,8 +15,8 @@ public class Product : IComparable
     }
 
     public string Name { get; set; }
-    public double  Price { get; set; }
-    public ProductType type  { get; set; }
+    public double Price { get; set; }
+    public ProductType type { get; set; }
     public uint Weight { get; set; }
 
     public override string ToString()

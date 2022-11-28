@@ -1,4 +1,6 @@
-﻿namespace QA_Task;
+﻿using System.Text;
+
+namespace QA_Task;
 
 public class Dish : IComparable
 {
@@ -30,6 +32,21 @@ public class Dish : IComparable
     public override string ToString()
     {
         return Name;
+    }
+
+    public string listProductsToString()
+    {
+        StringBuilder res = new StringBuilder("[");
+        for (var index = 0; index < ListProduct.Count; index++)
+        {
+            var prod = ListProduct[index];
+            res.Append(index + 1 + ". " + prod + ", ");
+        }
+
+        res[res.Length - 2] = ']';
+        res[res.Length - 1] = '.';
+
+        return res.ToString();
     }
 
     public int CompareTo(object? obj)

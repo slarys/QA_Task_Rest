@@ -2,8 +2,8 @@
 
 public enum ProductType
 {
-    Vegetable,
-    Fruit,
-    Meat,
-    Spices,
+    Vegetable = 0,
+    Fruit = 1,
+    Meat = 2,
+    Spices = 3,
 }
